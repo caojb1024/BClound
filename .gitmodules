@@ -1,0 +1,3 @@
+[submodule "study-eclipse-makefile"]
+	path = study-eclipse-makefile
+	url = https://github.com/caojb1024/study-eclipse-makefile.git
